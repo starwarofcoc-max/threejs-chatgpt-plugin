@@ -1,0 +1,31 @@
+{
+  "name": "threejs",
+  "version": "0.1.0",
+  "description": "Three.js skills for creating production-quality 3D graphics, animations, data visualizations, and cinematic scenes.",
+  "author": {
+    "name": "starwarofcoc-max"
+  },
+  "repository": "https://github.com/starwarofcoc-max/threejs-chatgpt-plugin",
+  "license": "MIT",
+  "keywords": [
+    "threejs",
+    "3d",
+    "animation",
+    "data-visualization",
+    "remotion"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Three.js",
+    "shortDescription": "Create 3D graphics and visualizations with Three.js.",
+    "longDescription": "Use Three.js for 3D graphics, animation, data visualization, cinematic scenes, and integration with Remotion.",
+    "developerName": "starwarofcoc-max",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://threejs.org/"
+  }
+}
