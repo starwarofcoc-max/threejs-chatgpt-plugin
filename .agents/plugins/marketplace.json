@@ -8,7 +8,7 @@
       "name": "threejs",
       "source": {
         "source": "local",
-        "path": "./skills/threejs"
+        "path": "./plugins/threejs"
       },
       "policy": {
         "installation": "AVAILABLE",
